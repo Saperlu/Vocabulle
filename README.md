@@ -19,5 +19,6 @@ Un jour peut-être:
 	-Adaptation de Vocabulle en site web
 	-Synchro entre site web et logiciel
 	-Interface graphique optionnelle pour le logiciel
+	-Traduction du logiciel et du README en anglais
 	-Amélioration de la pertinence des mots présentés
 	-Commercialisation mdr lol
